@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856032909261",
+    "project_id": "flutterloginsystem-3f8dd",
+    "storage_bucket": "flutterloginsystem-3f8dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856032909261:android:68d35f6b26150cd2591684",
+        "android_client_info": {
+          "package_name": "com.example.my_recepi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856032909261-ea8be3lld8vg1ihuvd8bnaerrkkm6rsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_recepi_app",
+            "certificate_hash": "5e0bda1e1ecab083a20cfa39926cad9abd85ff74"
+          }
+        },
+        {
+          "client_id": "856032909261-7aandl438mmmfejah6pbi7eaoa3badvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW2R5xTG6gLKPOzXZLRELXiL6XP4FXmv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856032909261-7aandl438mmmfejah6pbi7eaoa3badvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
