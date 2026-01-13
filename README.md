@@ -58,25 +58,4 @@ HTTP Package
 
 This project uses an AI API (OpenAI). For security reasons, the real API key is **not included** in this repository.
 
-### ✅ Steps to Set Up:
 
-1️⃣ Copy the file lib/services/secrets_sample.dart → rename it to secrets.dart
-2️⃣ Inside secrets.dart, add your real OpenAI API key:
-
-class Secrets {
-  static const String openAiApiKey =
-  "YOUR_OPENAI_API_KEY_HERE";
-      
-}
-
-3️⃣ Your ai_recipe_service.dart will import this:
-
-dart
-Copy code
-import 'secrets.dart';
-
-class AIRecipeService {
-  static const String _apiKey = openAIAPIKey;
-  // ...
-}
-✅ secrets.dart is added to .gitignore to keep it safe and private.
