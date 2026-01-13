@@ -1,11 +1,8 @@
-# ✨ MealX -Smart Recipe & Nutrition App
+✨ MealX -Smart Recipe & Nutrition App
 
 MealX is a Flutter-based smart recipe app that helps you discover delicious recipes with nutrition facts, calories, and an AI-powered Smart Recipe Generator. Enter your ingredients or preferences, and MealX will create custom recipes for you using the power of OpenAI.
 
----
-
-## 📱 Screenshots
-
+📱 Screenshots
 
 ![AppIcon](screenshots/app_icon.jpg)
 
@@ -22,10 +19,7 @@ MealX is a Flutter-based smart recipe app that helps you discover delicious reci
 
 ![ResultScreen](screenshots/result_screen.jpg)
 
-
----
-
-## 🚀 Features
+ 🚀 Features
 
 🍲 Search recipes by ingredients
 
@@ -34,9 +28,6 @@ MealX is a Flutter-based smart recipe app that helps you discover delicious reci
 🧑‍🍳 Generate unique recipes with AI prompts
 
 📋 Add Recipes as your fav
-
-💡 Smart and beginner-friendly Flutter UI
----
 
 ## 🔧 Technologies Used
 
@@ -52,7 +43,7 @@ Material Design
 
 HTTP Package
 
----
+
 
 ## 🔐 API Key Setup
 
